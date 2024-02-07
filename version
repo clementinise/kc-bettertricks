@@ -1,2 +1,8 @@
+<1.1>
+- Fixed player preferences not loading under certain circumstances
+- Added Config.MaxPitch to assist in maintaining wheelies
+- Added Config.InversedControl and a new command /trickscontrol for users to select their preferred control mode
+- Two new modes, Normal and Inverse. 'Normal' is easier for high-speed wheelies, while 'Inverse' is more controllable at lower speeds (Inverse is default)
+- All strings can now be correctly translated in the locale files (40+ strings)
 <1.0>
 - Initial Release
