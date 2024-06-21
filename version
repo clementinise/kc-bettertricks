@@ -1,3 +1,8 @@
+<1.2>
+- 4 wheelers can now also use the SUPER OMEGA WHEELIE MODE™
+- The Config Blacklist now uses 'Model Names' instead of 'Game Names'
+- Fixed Config.MaxPitch glitching the vehicle pitch if set to 0
+- Fixed the pitch exceeding the Config.MaxPitch limit in certain scenarios
 <1.1>
 - Fixed player preferences not loading under certain circumstances
 - Added Config.MaxPitch to assist in maintaining wheelies
